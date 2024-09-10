@@ -9,18 +9,17 @@ By [Zak Hussain](https://zak-hussain.github.io/) and [Dirk Wulff](https://www.mp
 9:00 - 10:30: Talk: Introduction to large language models<br>
 10:30 - 11:45: Break<br>
 10:45 - 11:15: Talk: A gentle introduction to Hugging Face and Python<br>
-11:15 - 12:00: Exercise:  Pipelines and APIs<br>
-12:00 - 12:15: Walkthrough<br>
-12:15 - 13:30: Lunch<br>
-13:30 - 14:00: Talk: Intro to embeddings<br>
-14:00 - 14:45: Exercise: Clarifying personality psychology<br>
-14:45 - 15:00: Walkthrough<br>
-15:00 - 15:15: Break<br>
-15:15 - 15:45: Talk: Intro to text generation<br>
-15:45 - 16:30: Exercise: Labeling and synthetic participants<br>
-16:30 - 16:45: Walkthrough<br>
-16:45 - 17:00: Break<br>
-17:00 - 18:00: Discussion and Q&A<br>
+11:15 - 11:45: Exercise:  Pipelines and APIs<br>
+11:45 - 12:00: Walkthrough<br>
+12:00 - 13:30: Lunch<br>
+13:30 - 14:15: Talk: Intro to embeddings<br>
+14:15 - 15:00 Exercise: Clarifying personality psychology<br>
+15:00 - 15:15: Walkthrough<br>
+15:15 - 15:45: Break<br>
+15:45 - 16:15: Talk: Intro to text generation<br>
+16:15 - 17:00: Exercise: Labeling and synthetic participants<br>
+17:00 - 17:15: Walkthrough<br>
+17:15 - 18:00: Discussion and Q&A<br>
 
 ### Additional Resources
 
