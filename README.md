@@ -1,6 +1,6 @@
 ## LLM4Psych_DGPS2024
 
-As part of the EADM Summer School 2024, this course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in psychology.
+As part of the DGPS 2024 pre-conference workshop, "Large language models in psychological research", this course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in psychology.
 
 By [Zak Hussain](https://zak-hussain.github.io/) and [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)
 
@@ -60,7 +60,7 @@ drive.mount("/content/drive")
 %cd /content/drive/MyDrive
 !git clone https://github.com/Zak-Hussain/LLM4Psych_DGPS2024.git
 ```
-5. Go back to your Google Drive and navigate to the folder "LLM4Psych_DGPS2024[LICENSE.txt](..%2FLLM4BeSci_EADM2024%2FLICENSE.txt)". You should see the relevant notebook (ending `.ipynb`) and data files in each folder (it may take  a couple of minutes for the files to appear).
+5. Go back to your Google Drive and navigate to the folder "LLM4Psych_DGPS2024". You should see the relevant notebook (ending `.ipynb`) and data files in each folder (it may take  a couple of minutes for the files to appear).
 
 #### Hugging Face API Setup Instructions
 The following steps are required to access the Llama-3 model via the Hugging Face API, which we will use in the workshop.
