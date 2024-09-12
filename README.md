@@ -60,7 +60,7 @@ drive.mount("/content/drive")
 %cd /content/drive/MyDrive
 !git clone https://github.com/Zak-Hussain/LLM4Psych_DGPS2024.git
 ```
-5. Go back to your Google Drive and navigate to the folder "LLM4Psych_DGPS2024". You should see the relevant notebook (ending `.ipynb`) and data files in each folder (it may take  a couple of minutes for the files to appear).
+5. Go back to your Google Drive and navigate to the folder `LLM4Psych_DGPS2024`. You should see the relevant notebook (ending `.ipynb`) and data files in each folder (it may take  a couple of minutes for the files to appear).
 
 #### Hugging Face API Setup Instructions
 The following steps are required to access the Llama-3 model via the Hugging Face API, which we will use in the workshop.
