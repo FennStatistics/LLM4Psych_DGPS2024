@@ -1,6 +1,6 @@
 ## LLM4Psych_DGPS2024
 
-As part of the DGPS 2024 pre-conference workshop, "Large language models in psychological research", this course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in psychology.
+This repository contains the materials for the DGPS 2024 pre-conference workshop, "Large language models in psychological research". The workshop introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in psychology.
 
 By [Zak Hussain](https://zak-hussain.github.io/) and [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)
 
