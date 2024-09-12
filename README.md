@@ -6,8 +6,8 @@ By [Zak Hussain](https://zak-hussain.github.io/) and [Dirk Wulff](https://www.mp
 
 ### Schedule
 
-9:00 - 10:30: Talk: Introduction to large language models<br>
-10:30 - 11:45: Break<br>
+09:00 - 10:30: Talk: Introduction to large language models<br>
+10:30 - 10:45: Break<br>
 10:45 - 11:15: Talk: A gentle introduction to Hugging Face and Python<br>
 11:15 - 11:45: Exercise:  Pipelines and APIs<br>
 11:45 - 12:00: Walkthrough<br>
